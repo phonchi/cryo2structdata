@@ -8,6 +8,7 @@ import urllib.request
 import urllib.error
 import os
 import requests
+import sys
 
 def get_pdb(em_path):
     counter = 0
